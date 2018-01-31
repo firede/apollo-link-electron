@@ -36,6 +36,8 @@
     "@types/graphql": "^0.12.3",
     "@types/jest": "^22.1.1",
     "@types/node": "^9.4.0",
+    "apollo-cache-inmemory": "^1.1.5",
+    "apollo-client": "^2.2.1",
     "devtron": "^1.4.0",
     "electron": "^1.7.11",
     "graphql": "^0.12.3",

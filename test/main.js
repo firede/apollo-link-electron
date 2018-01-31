@@ -11,6 +11,7 @@ let mainWindow = null
 let gqlExecutor = createGraphQLExecutor({
   schema: schema,
   rootValue: rootValue,
+  channel: "apollo-link-electron-test",
 })
 
 gqlExecutor.init()
