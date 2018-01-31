@@ -7,7 +7,7 @@ This project is **WORK IN PROGRESS**, do **NOT** try to use it :trollface:
 # Installation
 
 ```sh
-npm i apollo-link-electron
+npm i apollo-link-electron electron-graphql
 ```
 
 ## Usage
