@@ -33,28 +33,28 @@
   },
   "homepage": "https://github.com/firede/apollo-link-electron#readme",
   "devDependencies": {
-    "@types/graphql": "^0.12.3",
-    "@types/jest": "^22.1.1",
-    "@types/node": "^9.4.0",
-    "apollo-cache-inmemory": "^1.1.5",
-    "apollo-client": "^2.2.1",
+    "@types/graphql": "^0.12.6",
+    "@types/jest": "^22.2.2",
+    "@types/node": "^9.6.0",
+    "apollo-cache-inmemory": "^1.1.12",
+    "apollo-client": "^2.2.8",
     "devtron": "^1.4.0",
-    "electron": "^1.7.11",
-    "electron-graphql": "^0.2.0",
-    "graphql": "^0.12.3",
-    "graphql-tag": "^2.6.1",
+    "electron": "^1.8.4",
+    "electron-graphql": "^0.2.1",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.8.0",
     "husky": "^0.14.3",
-    "jest": "^22.1.4",
-    "lint-staged": "^6.1.0",
+    "jest": "^22.4.3",
+    "lint-staged": "^7.0.0",
     "npm-run-all": "^4.1.2",
-    "prettier": "^1.10.2",
+    "prettier": "^1.11.1",
     "rimraf": "^2.6.2",
     "spectron": "^3.8.0",
-    "ts-jest": "^22.0.2",
-    "typescript": "^2.6.2"
+    "ts-jest": "^22.4.2",
+    "typescript": "^2.7.2"
   },
   "dependencies": {
-    "apollo-link": "^1.0.7"
+    "apollo-link": "^1.2.1"
   },
   "peerDependencies": {
     "electron-graphql": "^0.2.0",
