@@ -1,5 +1,4 @@
-const { ApolloClient } = require("apollo-client")
-const { InMemoryCache } = require("apollo-cache-inmemory")
+const { ApolloClient, InMemoryCache } = require("@apollo/client")
 const { ElectronLink } = require("../dist")
 const gql = require("graphql-tag")
 
